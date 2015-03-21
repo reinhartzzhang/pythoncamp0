@@ -20,7 +20,8 @@
  - 第一次推送本地master
 
 > git push -u book master
- - 第一次全部下载远端到本地
+ 
+- 第一次全部下载远端到本地
 
 > git pull -u book master
  
