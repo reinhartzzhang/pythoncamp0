@@ -7,17 +7,21 @@
  
 ## Step 3
  - 生成SSH
+
 > ssh-keygen -t rsa -C "youremail@example.com"
   
 ## Step 4 
-- 关联账号
-- > git remote add book git@github.com:reinhartzzhang/pythoncamp0.git
+- 关联账号 
+
+> git remote add book git@github.com:reinhartzzhang/pythoncamp0.git
  
 ## Step 5 
  - 顺序取决于远端是否有文件。
  - 第一次推送本地master
+
 > git push -u book master
  - 第一次全部下载远端到本地
+
 > git pull -u book master
  
 ## Step6 
