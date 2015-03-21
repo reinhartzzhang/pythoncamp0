@@ -1,5 +1,5 @@
 # Step 1
- 系统windows7，在网站 http://git-scm.com/ 下载最新版本，进行安装。
+ 系统windows7，在网站 <h> http://git-scm.com/ </h>下载最新版本，进行安装。
  
 # step 2
  在本地磁盘上建立一个文件夹"gitlearn", 打开按右键选择git init
